@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER ranzechen
+MAINTAINER ranzechen@dingtalk.com
 
 #base config
 ENV ES_VERSION 5.4.3
